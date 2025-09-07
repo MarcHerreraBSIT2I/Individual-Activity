@@ -1,4 +1,4 @@
-// ACTIVITIY 2 
+// ACTIVITY 2 
 // Herrera. Marc Errone R.
 // BSIT - 2I
 
@@ -31,3 +31,4 @@ int main() {
     // DONE
     return 0;
 }
+
